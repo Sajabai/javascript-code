@@ -2,6 +2,7 @@ let obj = {
     name: "Saja",
     address: {
         village: "xyza",
-        pin: "12345"
+        pin: "12345",
+        PO: "Saharghat"
     }
 };

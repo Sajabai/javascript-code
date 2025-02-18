@@ -3,6 +3,10 @@ let obj = {
     address: {
         PO: "123",
         name: "123",
-        age:10
+        age:10,
+        village: "xyza",
+        pin: "12345",
+        PO: "banglore",
+        
     }
 };

@@ -1,0 +1,4 @@
+var i=10;
+
+let m=12;
+console.log(i+1);

@@ -1,6 +1,7 @@
 let obj = {
     name: "Saja",
     address: {
-        village: "xyza"
+        village: "xyza",
+        pin: "12345"
     }
 };
